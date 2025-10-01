@@ -12,9 +12,6 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  // Asumsi 'vehicleList' diimpor dari vehicle.dart
-  // final List<Vehicle> vehicleList = ...;
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
