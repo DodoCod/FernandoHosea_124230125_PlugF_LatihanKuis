@@ -162,7 +162,7 @@ class VehicleGrid extends StatelessWidget {
             Padding(
               padding: const EdgeInsets.all(16),
               child: Column(
-                crossAxisAlignment: CrossAxisAlignment.start, // Pastikan ini tetap `CrossAxisAlignment.start`
+                crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   Text(
                     vehicle.name,
