@@ -129,7 +129,7 @@ class _HalamanLoginState extends State<HalamanLogin> {
             setState(() {
               text = "Password Anda Kosong Silahkan Input Password anda";
             });
-          } else if (_username.text == "adit" && _password.text == "123") {
+          } else if (_username.text == "fernando" && _password.text == "125") {
             setState(() {
               text = "Login Berhasil";
               loginBerhasil = true;
